@@ -93,8 +93,8 @@
     .NOTES
         Author: Danny Mayer. Requires PowerShell 7+ and the JiraPS
         module.  The script uses `Get-JiraIssueAttachment` with filename
-        filtering【77114578000961†L185-L188】 and `Get-JiraIssueAttachmentFile` to
-        download attachments【754062052962526†L168-L172】.
+        filtering and `Get-JiraIssueAttachmentFile` to
+        download attachments.
 #>
 
 [CmdletBinding()]
